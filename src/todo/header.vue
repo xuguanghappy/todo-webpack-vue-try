@@ -3,9 +3,9 @@
     <h1>JTodo</h1>
   </header>
 </template>
-<style>
+<style lang="stylus" scoped>
 .main-header{
-  text-align: center;
+  text-align center 
 }
 .main-header h1{
   text-align: 100px;

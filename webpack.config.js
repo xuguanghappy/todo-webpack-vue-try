@@ -33,7 +33,7 @@ config = {
       test: /\.styl/,
       use: [
         'style-loader',
-        'css-laoder',
+        'css-loader',
         {
           loader: 'postcss-loader',
           options: {
